@@ -39,3 +39,8 @@
 * **四步驟實戰篩選流程**：依序進行「安全性過濾 $\rightarrow$ 成本與追蹤體檢 $\rightarrow$ 風險壓力測試 $\rightarrow$ 綜合 CP 值決選」[cite: 6]。
 
 ---
+
+## 🔗 相關前端呈現
+* **教學 HTML 簡報網址**：[GitHub Pages 互動簡報](https://chen1744095-lgtm.github.io/etf-investment-wiki/)
+
+---
